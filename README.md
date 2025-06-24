@@ -1,4 +1,3 @@
-
 # 🗝️ Painel de Login com Banco de Dados - DP Systems
 
 Este é um projeto de um **Painel de Login** simples, desenvolvido em **Python**, utilizando **Tkinter** para a interface gráfica e **SQLite** para o armazenamento dos dados dos usuários.
@@ -38,7 +37,7 @@ O projeto foi desenvolvido como prática para aprender a trabalhar com interface
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/ph-scr1pt/Painel-Login-em-Python.git
 ```
 
 2. Verifique se o Python está instalado. Se não estiver, baixe aqui:  
@@ -62,26 +61,6 @@ O banco de dados `UserData.db` será criado automaticamente na primeira execuç�
   - Proteções contra SQL Injection
   - Tratamento de erros mais robusto
 
-## 📚 Aprendizados
-
-- Desenvolvimento de interfaces com Tkinter
-- Criação e gerenciamento de banco de dados SQLite
-- Manipulação de dados com Python
-- Validação de dados
-- Conceitos básicos de autenticação
-
-## 🔒 Melhorias Futuras (Sugestões)
-
-- Adicionar hash de senhas (ex.: biblioteca `hashlib`)
-- Melhorar o design da interface
-- Implementar recuperação de senha
-- Sistema de níveis de usuário (admin, usuário, etc.)
-- Migrar para um banco online (MySQL, PostgreSQL)
-
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
-
-## ✔️ Status
-
-✅ **Concluído como projeto de aprendizado** – Aberto para melhorias futuras.
+Este projeto está sob a licença MIT.
